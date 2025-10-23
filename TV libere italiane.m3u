@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" tvg-chno="1" group-title="Rai" :http-user-agent="HbbTV/1.6.1",Rai 1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/768px-Rai_1_-_Logo_2016.svg.png" tvg-chno="1" group-title="Rai" :http-user-agent="HbbTV/1.6.1",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
@@ -8,19 +8,19 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png" tvg-chno="3" group-title="Rai" :http-user-agent="HbbTV/1.6.1",Rai 3
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/768px-Rai_3_-_Logo_2016.svg.png" tvg-chno="3" group-title="Rai" :http-user-agent="HbbTV/1.6.1",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/1200px-Rete_4_-_Logo_2018.svg.png" tvg-chno="4" group-title="Mediaset" :http-user-agent="HbbTV/1.6.1",Rete 4
+#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/768px-Rete_4_-_Logo_2018.svg.png" tvg-chno="4" group-title="Mediaset" :http-user-agent="HbbTV/1.6.1",Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1200px-Canale_5_-_2018_logo.svg.png" tvg-chno="5" group-title="Mediaset" :http-user-agent="HbbTV/1.6.1",Canale 5
+#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/768px-Canale_5_-_2018_logo.svg.png" tvg-chno="5" group-title="Mediaset" :http-user-agent="HbbTV/1.6.1",Canale 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/1920px-Logo_Italia_1.svg.png" tvg-chno="6" group-title="Mediaset" :http-user-agent="HbbTV/1.6.1",Italia 1
+#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/768px-Logo_Italia_1.svg.png" tvg-chno="6" group-title="Mediaset" :http-user-agent="HbbTV/1.6.1",Italia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
@@ -255,4 +255,5 @@ https://5f22d76e220e1.streamlock.net:443/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-id="Retemia" tvg-logo="https://www.retemia.eu/wp-content/uploads/2022/03/favicon.png" tvg-chno="804" group-title="Radio" :http-user-agent="",Rete Mia
 
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+
 
