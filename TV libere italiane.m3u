@@ -178,6 +178,9 @@ https://origin.streamup.eu/sportitalia/sihd_480p/playlist.m3u8
 #EXTINF:0, tvg-id="DonnaTV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" tvg-chno="62" group-title="Altro" :http-user-agent="",Donna TV
 https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8?hdnts=exp=1757785478~acl=/*~hmac=5c3bf123d326fc5212a942d76b1d048750a16e1a7a6951d85bfb6d628f2c0fe4
 
+#EXTINF:0, tvg-id="StileTV" tvg-logo="https://www.stiletv.it/assets/shared/logo_stiletv_big-9608323abc07cf8b9c684500b30243a74b638641f53f1cd133779449fc846ef4.png" tvg-chno="78" group-title="Altro" :http-user-agent="",StileTV
+https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+
 #EXTINF:0, tvg-id="SuperTennis.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" tvg-chno="64" group-title="Altro" :http-user-agent="",Supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
