@@ -181,6 +181,9 @@ https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA80
 #EXTINF:0, tvg-id="StileTV" tvg-logo="https://www.stiletv.it/assets/shared/logo_stiletv_big-9608323abc07cf8b9c684500b30243a74b638641f53f1cd133779449fc846ef4.png" tvg-chno="78" group-title="Altro" :http-user-agent="",StileTV
 https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
 
+#EXTINF:0, tvg-id="InfoCilentoTV" tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/63b4256ddc7134d7373aa80b/0x0.png" tvg-chno="79" group-title="Altro" :http-user-agent="",InfoCilento TV
+https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/playlist.m3u8
+
 #EXTINF:0, tvg-id="SuperTennis.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" tvg-chno="64" group-title="Altro" :http-user-agent="",Supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
@@ -259,4 +262,5 @@ https://5f22d76e220e1.streamlock.net:443/iuniortv/iuniortv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 
 #EXTINF:0, tvg-id="Canale Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Canale_Italia_Logo_2016.png/220px-Canale_Italia_Logo_2016.png" tvg-chno="805" group-title="Radio" :http-user-agent="",Canale Italia
+
 https://liveac115b.b-cdn.net/canale1.smil/playlist.m3u8
