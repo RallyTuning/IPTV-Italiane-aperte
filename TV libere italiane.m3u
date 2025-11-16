@@ -10,7 +10,7 @@ https://streamcdnf40-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/play
 
 #EXTINF:0, tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/768px-Rai_3_-_Logo_2016.svg.png" tvg-chno="3" group-title="Rai" :http-user-agent="HbbTV/1.6.1",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streamcdnf40-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rai3nodvr/hls/playlist_ma.m3u8?baseuri=%2Frai3nodvr%2Fhls%2F&tstart=0&tend=1763325302&tof=86400&tk2=e8fbd0a6b1afc878e42f06cd30e69b6003d6c2e736eeda3f51e25e8880f36a6f
+https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
 #EXTINF:0, tvg-id="Rete4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/768px-Rete_4_-_Logo_2018.svg.png" tvg-chno="4" group-title="Mediaset" :http-user-agent="HbbTV/1.6.1",Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -264,4 +264,5 @@ https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 #EXTINF:0, tvg-id="Canale Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Canale_Italia_Logo_2016.png/220px-Canale_Italia_Logo_2016.png" tvg-chno="805" group-title="Radio" :http-user-agent="",Canale Italia
 
 https://liveac115b.b-cdn.net/canale1.smil/playlist.m3u8
+
 
